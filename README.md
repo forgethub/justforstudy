@@ -1,0 +1,2 @@
+# justforstudy
+study c++
